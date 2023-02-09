@@ -1,22 +1,19 @@
 ### Hi I'm Jhoanna👋 and welcome to my report😄
 
 
-**JhoannaR/JhoannaR** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Industrial Engeneering that seeks to help companies through technological solutions that make them more competitive and efficient for the benefit of all stakeholders.
 
-Here are some ideas to get you started:
+Some topics to get to know me better:
 
-- 🔭 I’m currently working on ...
--🌱 I’m currently learning Javascript and React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🌱 I’m currently learning Front-end developer with JS, HTML y CSS in Laboratoria Bootcamp, an important bootcamp in Latam that helps women enter the world of technology to equalize the gender balance in this industry.
+- 🔭 I’m currently looking for a job 
+- 👯 I’m looking to collaborate on diferents kind of projects where my points of view are valued and I can improve my knowledge of Javascript
+- 📫 Reach me on  
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love team sports like basketball and volleyball and also cooking.
 ✨
-
-![fotoRepo JhoannaR](https://user-images.githubusercontent.com/113317909/217946194-c59fe9c9-b68e-48c1-9969-5bf2dc14ad25.jpg)
 
 <!--
 aquí puedeo escribir mi borrador
 -->
+![fotoRepo JhoannaR 1 without backgroun](https://user-images.githubusercontent.com/113317909/217950693-dbb5543c-be21-413e-aa1e-10f753055b9b.png)
