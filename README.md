@@ -8,7 +8,7 @@ Some topics to get to know me better:
 🌱 I’m currently learning Front-end developer with JS, HTML y CSS in Laboratoria Bootcamp, an important bootcamp in Latam that helps women enter the world of technology     to equalize the gender balance in this industry.
 - 🔭 I’m currently looking for a job 
 - 👯 I’m looking to collaborate on diferents kind of projects where my points of view are valued and I can improve my knowledge of Javascript
-- 📫 Reach me on:  
+- 📫 Reach me on:  [Linkedin]([[url](https://www.linkedin.com/feed/)](https://www.linkedin.com/in/jhoannarosamerad%C3%A1vila/))
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love team sports like basketball and volleyball and also cooking.
 ✨
