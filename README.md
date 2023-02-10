@@ -1,5 +1,6 @@
 ### Hi I'm Jhoanna👋 and welcome to my report😄
 
+![foto](https://user-images.githubusercontent.com/113317909/217966733-dc7e4a29-ea1c-43e8-8455-2f808ecddfdb.PNG)
 
 I'm a Industrial Engeneering that seeks to help companies through technological solutions that make them more competitive and efficient for the benefit of all stakeholders.
 Some topics to get to know me better:
@@ -16,4 +17,3 @@ Some topics to get to know me better:
 <!--
 aquí puedeo escribir mi borrador
 -->
-![foto](https://user-images.githubusercontent.com/113317909/217966733-dc7e4a29-ea1c-43e8-8455-2f808ecddfdb.PNG)
