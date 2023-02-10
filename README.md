@@ -5,8 +5,7 @@
 I'm a Industrial Engeneering that seeks to help companies through technological solutions that make them more competitive and efficient for the benefit of all stakeholders.
 Some topics to get to know me better:
 
-
--🌱 I’m currently learning Front-end developer with JS, HTML y CSS in Laboratoria Bootcamp, an important bootcamp in Latam that helps women enter the world of technology to equalize the gender balance in this industry.
+🌱 I’m currently learning Front-end developer with JS, HTML y CSS in Laboratoria Bootcamp, an important bootcamp in Latam that helps women enter the world of technology     to equalize the gender balance in this industry.
 - 🔭 I’m currently looking for a job 
 - 👯 I’m looking to collaborate on diferents kind of projects where my points of view are valued and I can improve my knowledge of Javascript
 - 📫 Reach me on:  
