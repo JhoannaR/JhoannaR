@@ -6,7 +6,7 @@ I'm a Industrial Engeneering Bachelor that seeks to help companies through techn
 Some topics to get to know me better:
 
 🌱 I’m currently learning Front-end developer with JS, HTML y CSS in **Laboratoria Bootcamp**, an important bootcamp in Latam that helps women enter the world of technology     to equalize the gender balance in this industry.
-- 🔭 I’m currently looking for a job 
+- 🔭 I’m currently looking for a new opportunity 
 - 👯 I’m looking to collaborate on diferents kind of projects where my points of view are valued and I can improve my knowledge of Javascript
 - 📫 Reach me on:  [Linkedin](https://www.linkedin.com/in/jhoannarosamerad%C3%A1vila/) y [Facebook](https://web.facebook.com/jhoannarosa.meradavila)
 - 😄 Pronouns: she/her
