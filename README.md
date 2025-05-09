@@ -1,4 +1,4 @@
-### Hi I'm Jhoanna👋 and welcome to my report😄
+### Hi I'm Jhoanna👋 and welcome to my repo😄
 
 ![foto](https://user-images.githubusercontent.com/113317909/217966733-dc7e4a29-ea1c-43e8-8455-2f808ecddfdb.PNG)
 
